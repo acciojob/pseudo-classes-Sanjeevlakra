@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+body{
+	background:skyblue;
+}
+
+.h1{
+	border:0 solid black;
+	color:white;
+	background:black;
+}
+
+.p1{
+	color:black;
+}
+
+.p3{
+	color:red;
+}
+
+.l1{
+	border:0 solid white;
+	background:white;
+	overflow:hidden;
+	display:webkit-box;
+}
+
+.l2{
+	border:0 solid gray;
+	background:gray;
+}
+
+.l3{
+	border:0 solid pink;
+	background:pink;
+	
+}
+
+.l4{
+	border:0 solid white;
+	background:white;
+}
+
+.l5{
+	border:0 solid white;
+	background:gray;
+}
