@@ -20,27 +20,29 @@ body{
 .l1{
 	border:0 solid white;
 	background:white;
-	overflow:hidden;
-	display:webkit-box;
+	width:300px;
 }
 
 .l2{
 	border:0 solid gray;
 	background:gray;
+	width:300px;
 }
 
 .l3{
 	border:0 solid pink;
 	background:pink;
-	
+	width:300px;
 }
 
 .l4{
 	border:0 solid white;
 	background:white;
+	width:300px;
 }
 
 .l5{
 	border:0 solid white;
 	background:gray;
+	width:300px;
 }
