@@ -6,7 +6,7 @@ body{
 .h1{
 	border:0 solid black;
 	color:white;
-	background:black;
+	background-color:black;
 }
 
 .p1{
@@ -19,30 +19,30 @@ body{
 
 .l1{
 	border:0 solid white;
-	background:white;
+	background-color:white;
 	width:300px;
 }
 
 .l2{
 	border:0 solid gray;
-	background:gray;
+	background-color:gray;
 	width:300px;
 }
 
 .l3{
 	border:0 solid pink;
-	background:pink;
+	background-color:pink;
 	width:300px;
 }
 
 .l4{
 	border:0 solid white;
-	background:white;
+	background-color:white;
 	width:300px;
 }
 
 .l5{
 	border:0 solid white;
-	background:gray;
+	background-color:gray;
 	width:300px;
 }
